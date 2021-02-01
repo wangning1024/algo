@@ -13,7 +13,6 @@ public class SinglyLinkedList {
         return p;
     }
 
-
     public class Node {
         private int data;
         private Node next;
