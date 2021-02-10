@@ -1,4 +1,4 @@
-package A_Array;
+package java.A_Array;
 
 public class ArrayDemo {
 
