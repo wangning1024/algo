@@ -43,7 +43,8 @@ public class LeetCode_offer10_2 {
     }
 
     /**
-     *
+     * 题解算法
+     * 与求斐波那契数列完全一样的算法
      * @param n
      * @return
      */
